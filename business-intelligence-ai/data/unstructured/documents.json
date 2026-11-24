@@ -1,0 +1,668 @@
+[
+  {
+    "document_id": "DOC-0001",
+    "date": "2026-07-21",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delivery delay",
+    "text": "Customer reports order arrived later than the estimated delivery date. Requesting update on dispatch status."
+  },
+  {
+    "document_id": "DOC-0002",
+    "date": "2026-07-04",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delivery delay",
+    "text": "Customer reports order arrived later than the estimated delivery date. Requesting update on dispatch status."
+  },
+  {
+    "document_id": "DOC-0003",
+    "date": "2026-07-01",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delivery delay",
+    "text": "Customer reports order arrived later than the estimated delivery date. Requesting update on dispatch status."
+  },
+  {
+    "document_id": "DOC-0004",
+    "date": "2026-07-24",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delivery delay",
+    "text": "Customer reports order arrived later than the estimated delivery date. Requesting update on dispatch status."
+  },
+  {
+    "document_id": "DOC-0005",
+    "date": "2026-07-09",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delivery delay",
+    "text": "Customer reports order arrived later than the estimated delivery date. Requesting update on dispatch status."
+  },
+  {
+    "document_id": "DOC-0006",
+    "date": "2026-07-08",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delivery delay",
+    "text": "Customer reports order arrived later than the estimated delivery date. Requesting update on dispatch status."
+  },
+  {
+    "document_id": "DOC-0007",
+    "date": "2026-07-26",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delivery delay",
+    "text": "Customer reports order arrived later than the estimated delivery date. Requesting update on dispatch status."
+  },
+  {
+    "document_id": "DOC-0008",
+    "date": "2026-07-05",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delivery delay",
+    "text": "Customer reports order arrived later than the estimated delivery date. Requesting update on dispatch status."
+  },
+  {
+    "document_id": "DOC-0009",
+    "date": "2026-07-30",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delivery delay",
+    "text": "Customer reports order arrived later than the estimated delivery date. Requesting update on dispatch status."
+  },
+  {
+    "document_id": "DOC-0010",
+    "date": "2026-07-22",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delivery delay",
+    "text": "Customer reports order arrived later than the estimated delivery date. Requesting update on dispatch status."
+  },
+  {
+    "document_id": "DOC-0011",
+    "date": "2026-07-18",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delivery delay",
+    "text": "Customer reports order arrived later than the estimated delivery date. Requesting update on dispatch status."
+  },
+  {
+    "document_id": "DOC-0012",
+    "date": "2026-07-03",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delivery delay",
+    "text": "Customer reports order arrived later than the estimated delivery date. Requesting update on dispatch status."
+  },
+  {
+    "document_id": "DOC-0013",
+    "date": "2026-07-19",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delivery delay",
+    "text": "Customer reports order arrived later than the estimated delivery date. Requesting update on dispatch status."
+  },
+  {
+    "document_id": "DOC-0014",
+    "date": "2026-08-28",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0015",
+    "date": "2026-08-03",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0016",
+    "date": "2026-08-02",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0017",
+    "date": "2026-08-06",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0018",
+    "date": "2026-08-14",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0019",
+    "date": "2026-08-15",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0020",
+    "date": "2026-08-02",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0021",
+    "date": "2026-08-08",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0022",
+    "date": "2026-08-29",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0023",
+    "date": "2026-08-05",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0024",
+    "date": "2026-08-13",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0025",
+    "date": "2026-08-15",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0026",
+    "date": "2026-08-11",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0027",
+    "date": "2026-08-14",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0028",
+    "date": "2026-08-04",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0029",
+    "date": "2026-08-27",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0030",
+    "date": "2026-08-26",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0031",
+    "date": "2026-08-29",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0032",
+    "date": "2026-08-07",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0033",
+    "date": "2026-08-18",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0034",
+    "date": "2026-08-01",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0035",
+    "date": "2026-08-11",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0036",
+    "date": "2026-08-31",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0037",
+    "date": "2026-08-22",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0038",
+    "date": "2026-08-12",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0039",
+    "date": "2026-08-10",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0040",
+    "date": "2026-08-27",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0041",
+    "date": "2026-08-24",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0042",
+    "date": "2026-08-07",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0043",
+    "date": "2026-08-28",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0044",
+    "date": "2026-08-25",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Support Ticket",
+    "title": "Delayed shipment complaint",
+    "text": "Customer escalated a delayed shipment. Package has been in transit beyond the promised delivery window from the regional distribution center."
+  },
+  {
+    "document_id": "DOC-0045",
+    "date": "2026-08-04",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Operations Note",
+    "title": "DC-South capacity constraint",
+    "text": "Distribution Center South (DC-South) is running below normal throughput due to a staffing shortfall on the outbound sorting line, adding roughly 2 days to average dispatch time for Electronics SKUs."
+  },
+  {
+    "document_id": "DOC-0046",
+    "date": "2026-08-12",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Operations Note",
+    "title": "DC-South capacity constraint",
+    "text": "Distribution Center South (DC-South) is running below normal throughput due to a staffing shortfall on the outbound sorting line, adding roughly 2 days to average dispatch time for Electronics SKUs."
+  },
+  {
+    "document_id": "DOC-0047",
+    "date": "2026-08-28",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Operations Note",
+    "title": "DC-South capacity constraint",
+    "text": "Distribution Center South (DC-South) is running below normal throughput due to a staffing shortfall on the outbound sorting line, adding roughly 2 days to average dispatch time for Electronics SKUs."
+  },
+  {
+    "document_id": "DOC-0048",
+    "date": "2026-08-30",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Operations Note",
+    "title": "DC-South capacity constraint",
+    "text": "Distribution Center South (DC-South) is running below normal throughput due to a staffing shortfall on the outbound sorting line, adding roughly 2 days to average dispatch time for Electronics SKUs."
+  },
+  {
+    "document_id": "DOC-0049",
+    "date": "2026-08-20",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Operations Note",
+    "title": "DC-South capacity constraint",
+    "text": "Distribution Center South (DC-South) is running below normal throughput due to a staffing shortfall on the outbound sorting line, adding roughly 2 days to average dispatch time for Electronics SKUs."
+  },
+  {
+    "document_id": "DOC-0050",
+    "date": "2026-08-09",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Operations Note",
+    "title": "DC-South capacity constraint",
+    "text": "Distribution Center South (DC-South) is running below normal throughput due to a staffing shortfall on the outbound sorting line, adding roughly 2 days to average dispatch time for Electronics SKUs."
+  },
+  {
+    "document_id": "DOC-0051",
+    "date": "2026-08-26",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Sales Note",
+    "title": "Promotion budget reallocated",
+    "text": "Regional promotion budget for Electronics was reduced this month and reallocated to the West region campaign; South Electronics has no active discount push in market."
+  },
+  {
+    "document_id": "DOC-0052",
+    "date": "2026-08-02",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Sales Note",
+    "title": "Promotion budget reallocated",
+    "text": "Regional promotion budget for Electronics was reduced this month and reallocated to the West region campaign; South Electronics has no active discount push in market."
+  },
+  {
+    "document_id": "DOC-0053",
+    "date": "2026-08-24",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Sales Note",
+    "title": "Promotion budget reallocated",
+    "text": "Regional promotion budget for Electronics was reduced this month and reallocated to the West region campaign; South Electronics has no active discount push in market."
+  },
+  {
+    "document_id": "DOC-0054",
+    "date": "2026-08-15",
+    "region": "South India",
+    "category": "Electronics",
+    "source": "Sales Note",
+    "title": "Promotion budget reallocated",
+    "text": "Regional promotion budget for Electronics was reduced this month and reallocated to the West region campaign; South Electronics has no active discount push in market."
+  },
+  {
+    "document_id": "DOC-0055",
+    "date": "2026-08-18",
+    "region": "West India",
+    "category": null,
+    "source": "Management Note",
+    "title": "West region festival promotion",
+    "text": "Launched a festival promotion campaign across West India covering multiple categories with increased discount depth to drive volume ahead of the season."
+  },
+  {
+    "document_id": "DOC-0056",
+    "date": "2026-08-04",
+    "region": "West India",
+    "category": null,
+    "source": "Management Note",
+    "title": "West region festival promotion",
+    "text": "Launched a festival promotion campaign across West India covering multiple categories with increased discount depth to drive volume ahead of the season."
+  },
+  {
+    "document_id": "DOC-0057",
+    "date": "2026-08-30",
+    "region": "West India",
+    "category": null,
+    "source": "Management Note",
+    "title": "West region festival promotion",
+    "text": "Launched a festival promotion campaign across West India covering multiple categories with increased discount depth to drive volume ahead of the season."
+  },
+  {
+    "document_id": "DOC-0058",
+    "date": "2026-08-13",
+    "region": "West India",
+    "category": null,
+    "source": "Management Note",
+    "title": "West region festival promotion",
+    "text": "Launched a festival promotion campaign across West India covering multiple categories with increased discount depth to drive volume ahead of the season."
+  },
+  {
+    "document_id": "DOC-0059",
+    "date": "2026-08-03",
+    "region": "West India",
+    "category": null,
+    "source": "Management Note",
+    "title": "West region festival promotion",
+    "text": "Launched a festival promotion campaign across West India covering multiple categories with increased discount depth to drive volume ahead of the season."
+  },
+  {
+    "document_id": "DOC-0060",
+    "date": "2026-08-18",
+    "region": "West India",
+    "category": null,
+    "source": "Finance Note",
+    "title": "Margin compression flagged",
+    "text": "Finance flags that the West region promotion is driving revenue growth but gross margin percentage has declined due to deeper discounting than planned."
+  },
+  {
+    "document_id": "DOC-0061",
+    "date": "2026-08-10",
+    "region": "West India",
+    "category": null,
+    "source": "Finance Note",
+    "title": "Margin compression flagged",
+    "text": "Finance flags that the West region promotion is driving revenue growth but gross margin percentage has declined due to deeper discounting than planned."
+  },
+  {
+    "document_id": "DOC-0062",
+    "date": "2026-08-27",
+    "region": "West India",
+    "category": null,
+    "source": "Finance Note",
+    "title": "Margin compression flagged",
+    "text": "Finance flags that the West region promotion is driving revenue growth but gross margin percentage has declined due to deeper discounting than planned."
+  },
+  {
+    "document_id": "DOC-0063",
+    "date": "2026-08-21",
+    "region": "North India",
+    "category": "Apparel",
+    "source": "Support Ticket",
+    "title": "Size exchange request",
+    "text": "Customer requesting a size exchange for an apparel order, unrelated to delivery timing."
+  },
+  {
+    "document_id": "DOC-0064",
+    "date": "2026-08-20",
+    "region": "North India",
+    "category": "Apparel",
+    "source": "Support Ticket",
+    "title": "Size exchange request",
+    "text": "Customer requesting a size exchange for an apparel order, unrelated to delivery timing."
+  },
+  {
+    "document_id": "DOC-0065",
+    "date": "2026-08-29",
+    "region": "North India",
+    "category": "Apparel",
+    "source": "Support Ticket",
+    "title": "Size exchange request",
+    "text": "Customer requesting a size exchange for an apparel order, unrelated to delivery timing."
+  },
+  {
+    "document_id": "DOC-0066",
+    "date": "2026-08-28",
+    "region": "North India",
+    "category": "Apparel",
+    "source": "Support Ticket",
+    "title": "Size exchange request",
+    "text": "Customer requesting a size exchange for an apparel order, unrelated to delivery timing."
+  },
+  {
+    "document_id": "DOC-0067",
+    "date": "2026-08-12",
+    "region": "East India",
+    "category": "Grocery",
+    "source": "Support Ticket",
+    "title": "Missing item in order",
+    "text": "Customer reports one item missing from a grocery order, requesting refund."
+  },
+  {
+    "document_id": "DOC-0068",
+    "date": "2026-08-19",
+    "region": "East India",
+    "category": "Grocery",
+    "source": "Support Ticket",
+    "title": "Missing item in order",
+    "text": "Customer reports one item missing from a grocery order, requesting refund."
+  },
+  {
+    "document_id": "DOC-0069",
+    "date": "2026-08-07",
+    "region": "East India",
+    "category": "Grocery",
+    "source": "Support Ticket",
+    "title": "Missing item in order",
+    "text": "Customer reports one item missing from a grocery order, requesting refund."
+  },
+  {
+    "document_id": "DOC-0070",
+    "date": "2026-08-23",
+    "region": "East India",
+    "category": "Grocery",
+    "source": "Support Ticket",
+    "title": "Missing item in order",
+    "text": "Customer reports one item missing from a grocery order, requesting refund."
+  },
+  {
+    "document_id": "DOC-0071",
+    "date": "2026-08-03",
+    "region": "North India",
+    "category": "Beauty",
+    "source": "Sales Note",
+    "title": "Regular restock",
+    "text": "Routine restock note for beauty category, no anomalies observed."
+  },
+  {
+    "document_id": "DOC-0072",
+    "date": "2026-08-02",
+    "region": "North India",
+    "category": "Beauty",
+    "source": "Sales Note",
+    "title": "Regular restock",
+    "text": "Routine restock note for beauty category, no anomalies observed."
+  },
+  {
+    "document_id": "DOC-0073",
+    "date": "2026-08-22",
+    "region": "North India",
+    "category": "Beauty",
+    "source": "Sales Note",
+    "title": "Regular restock",
+    "text": "Routine restock note for beauty category, no anomalies observed."
+  },
+  {
+    "document_id": "DOC-0074",
+    "date": "2026-08-08",
+    "region": "North India",
+    "category": "Beauty",
+    "source": "Sales Note",
+    "title": "Regular restock",
+    "text": "Routine restock note for beauty category, no anomalies observed."
+  }
+]
