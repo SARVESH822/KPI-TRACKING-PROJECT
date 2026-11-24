@@ -1,0 +1,196 @@
+# Cynbit InsightIQ
+
+### AI-Powered Business Decision Intelligence Engine
+
+*From KPI anomalies to evidence-backed business decisions.*
+
+## 1. Problem Statement
+
+Most business dashboards are good at showing what has happened, but understanding why it happened still requires considerable manual effort.
+
+For instance, when a company's revenue drops by 8%, the dashboard highlights the decline. However, an analyst still needs to go through sales records, customer reviews, support tickets and other relevant information to understand what might have caused it.
+
+The challenge becomes even greater when the required information is scattered across different platforms. By the time the investigation is complete, the business may have already lost valuable time.
+
+This is the problem I wanted to address through InsightIQ.
+
+## 2. Proposed Solution
+
+InsightIQ is an AI-powered decision intelligence engine designed to help businesses understand the reasons behind changes in their KPIs and decide what to do next.
+
+The idea is to bring structured data, such as sales records and operational metrics, together with unstructured data, such as customer reviews, support tickets and internal notes.
+
+The system uses statistical analysis to detect unusual KPI movements, retrieves relevant information, ranks possible explanations and uses an LLM to communicate the findings in a way that business users can easily understand.
+
+The proposed workflow follows five stages:
+
+**Detect → Diagnose → Explain → Act → Learn**
+
+The objective is not to replace existing dashboards but to make them more useful by adding a layer of intelligence that assists business decisions.
+
+## 3. Why Cynbit?
+
+While going through Cynbit's website, services and product portfolio, I noticed that the company works across several industries, including education, property management, customer reputation management and digital marketing.
+
+Although these domains are different, they share a common requirement: understanding business performance and identifying areas that need improvement.
+
+This led me to explore whether a single decision intelligence engine could be developed and adapted to multiple Cynbit products, rather than building a separate analytical system for each one.
+
+### Potential Applications Across Cynbit's Ecosystem
+
+| Product / Service | Metrics | Potential Application |
+|---|---|---|
+| Revio | Customer ratings and satisfaction | Understand why customer ratings are declining by analyzing reviews and operational data. |
+| TenantEase | Rental revenue and occupancy | Investigate revenue fluctuations, delayed payments and increasing vacancies. |
+| Cynbit Studio | Student engagement and course completion | Identify learning difficulties and possible reasons behind declining student participation. |
+| BitElevate | Task completion and intern performance | Identify recurring technical difficulties and bottlenecks in task completion. |
+| Digital Marketing | ROI, conversion rate and acquisition cost | Understand why marketing campaigns are underperforming and identify areas for improvement. |
+| Enterprise Software Services | Client-specific KPIs | Integrate decision intelligence into customized software solutions based on client requirements. |
+
+The advantage of this approach is that the underlying architecture remains largely the same. The data sources, KPIs and methods used to evaluate possible causes can be adapted according to the product or industry.
+
+## 4. Example Use Case — Revio
+
+To better explain how the proposed system would work, consider a restaurant chain using Revio to manage its customer reviews.
+
+Suppose the restaurant experiences an 8% decline in revenue along with a noticeable drop in customer ratings.
+
+A conventional dashboard would display these changes. However, the restaurant manager would still need to investigate whether the decline was related to food quality, waiting time, pricing, product availability or some other factor.
+
+InsightIQ would approach this problem by:
+
+- Checking whether the revenue decline is unusual compared to historical performance.
+- Identifying the branches or business segments contributing to the decline.
+- Retrieving relevant customer reviews and operational records.
+- Ranking possible reasons based on the available evidence.
+- Explaining the findings in simple language.
+- Suggesting actions and identifying information needed for further investigation.
+
+For example, if complaints about waiting time have increased during the same period and operational records also show longer order fulfilment times, the system could identify service delays as a possible explanation.
+
+However, it would not claim that service delays caused the revenue decline without sufficient evidence.
+
+This could help extend Revio's existing reputation management capabilities beyond understanding customer sentiment to identifying potential operational problems behind it.
+
+## 5. Technical Approach
+
+### Data Ingestion
+
+The system accepts two types of data:
+
+- Structured data: sales records, CRM data, ERP records and operational metrics.
+- Unstructured data: customer reviews, support tickets, internal notes and other relevant documents.
+
+Structured data is processed and organized based on timestamps and business segments. Unstructured data is converted into vector embeddings to enable semantic retrieval.
+
+### KPI Monitoring
+
+Business KPIs are monitored across different time periods and segments, such as regions, products and sales channels.
+
+This helps the system identify not only an overall change but also the specific segments contributing to it.
+
+### Anomaly Detection
+
+A change in a KPI does not necessarily indicate a problem. Some fluctuations are part of normal business behaviour.
+
+I propose using statistical methods such as rolling Z-scores to compare current KPI values against historical patterns and identify unusual deviations.
+
+More advanced anomaly detection methods can be explored depending on the volume and nature of the available data.
+
+### Root Cause Hypothesis Ranking
+
+Once an anomaly is detected, the system searches for relevant evidence from both structured and unstructured data sources.
+
+Possible explanations are ranked based on factors such as:
+
+- Correlation between relevant business metrics.
+- Temporal proximity between events and KPI changes.
+- Semantic relevance of retrieved information.
+- Similar incidents observed in historical data.
+
+The aim is to provide a ranked set of possible explanations rather than force the system to produce a single answer when the evidence is insufficient.
+
+### AI Narrative Generation
+
+The detected anomaly, statistical findings, retrieved evidence and ranked hypotheses are passed to an LLM.
+
+The LLM is responsible for presenting the findings in understandable language, explaining the supporting evidence and suggesting possible actions.
+
+The prompt would instruct the model to rely on the provided evidence, avoid unsupported conclusions and explicitly communicate uncertainty whenever necessary.
+
+### Human Feedback
+
+Business analysts can review the generated explanations, confirm or reject hypotheses and provide additional information.
+
+Over time, this feedback could be used to improve the hypothesis ranking mechanism and make the system more relevant to individual business environments.
+
+## 6. Proposed Technology Stack
+
+| Technology | Purpose |
+|---|---|
+| Python | Core application development |
+| Pandas and NumPy | Data processing and statistical analysis |
+| Scikit-learn | Machine learning and anomaly detection |
+| Sentence Transformers | Generating semantic embeddings |
+| Vector Database | Storing and retrieving relevant textual evidence |
+| LangChain | Managing LLM workflows |
+| LLM | Generating explanations and recommendations |
+| Streamlit | Interactive proof of concept |
+| FastAPI | Future backend and product integration |
+
+The technology stack is proposed based on the current requirements and can be modified as the system develops.
+
+## 7. Business Value for Cynbit
+
+What makes this opportunity particularly interesting is that it does not have to be limited to a single product.
+
+Cynbit could initially introduce InsightIQ as an additional feature within one of its existing platforms, such as Revio. Once validated, the same architecture could be adapted to TenantEase, Cynbit Studio and other products.
+
+From a business perspective, this could offer several benefits:
+
+- Reduce the time spent manually investigating KPI changes.
+- Make business analytics more accessible to users without technical expertise.
+- Improve the analytical capabilities of existing Cynbit products.
+- Reduce development effort by reusing the core intelligence engine.
+- Create opportunities for premium analytics features or a standalone enterprise solution.
+
+These benefits would need to be evaluated through actual implementation and customer feedback.
+
+## 8. Future Scope
+
+The initial focus would be on building a system that can detect KPI anomalies, retrieve relevant evidence and generate useful explanations.
+
+Once the core functionality is validated, the system could be extended to include:
+
+- Real-time KPI monitoring and automated alerts.
+- Direct integration with CRM and ERP platforms.
+- Industry-specific hypothesis ranking models.
+- Learning from historical incidents and analyst feedback.
+- Predictive analytics to identify potential problems before they occur.
+- Deployment as a shared service across Cynbit's products.
+
+## 9. Limitations
+
+This proposal is based on my understanding of Cynbit's publicly available information. I do not currently have access to the company's internal datasets, product architecture or customer usage patterns.
+
+Therefore, the suggested applications represent potential opportunities rather than confirmed gaps in Cynbit's existing products.
+
+Another important limitation is that correlation does not imply causation. The system should present its findings as evidence-supported hypotheses and communicate uncertainty instead of generating misleading conclusions.
+
+## 10. Project Documentation
+
+The accompanying presentation explains the problem statement, proposed system architecture and expected business impact.
+
+The initial idea originated from a collaborative hackathon project on business decision intelligence. For this assessment, I have explored how the concept could be adapted to Cynbit's product ecosystem and business requirements.
+
+Individual implementation contributions and prototype results will be documented separately.
+
+## References
+
+- [Cynbit Official Website](https://www.cynbit.in/)
+- [Cynbit Services](https://www.cynbit.in/services)
+- [Cynbit Product Portfolio](https://www.cynbit.in/products)
+
+---
+
+**We are not replacing the dashboard. We are building the intelligence layer that turns dashboards into decisions.**
